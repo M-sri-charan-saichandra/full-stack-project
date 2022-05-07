@@ -11,8 +11,7 @@ Step 2: Download Zip file from the github.<br>
 Step 3: Move to the extracted files to the htdocs folder in the Xampp directory.<br>
 Step 4: On the MySQL and Apache in the Xampp.<br>
 Step 5: Click on Admin and start using the project.<br>
-<br>
-<h3>TecH Stack</h3>
+<h3>Tech Stack</h3>
 Frontend Technologies : HTML, CSS, JavaScript.<br>
 Backend Technologies  : Php.<br>
 Database              : MYSQL.<br>
