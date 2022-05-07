@@ -1,1 +1,2 @@
-Online Course Platform
+<h1>Online Course Platform</h1>
+Because of covid, everyone in the world nowadays enjoys using devices. Education is transforming from offline to online. As a result, this software offers some of the most cutting-edge technologies at an affordable price. The application's payment method is straightforward, with several payment options available. Every technology course in this application will have a learning path.To learn everything in the course from beginner to advanced levels.
