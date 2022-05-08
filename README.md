@@ -27,7 +27,7 @@ Frontend Technologies : HTML, CSS, JavaScript.<br>
 Backend Technologies  : Php.<br>
 Database              : MYSQL.<br>
 Tools                 : XAMPP.<br>
-<h3>References></h3>
+<h3>References</h3>
 <ul>
   <li>youtube</li>
   <li>chrome</li>
