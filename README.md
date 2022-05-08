@@ -1,5 +1,7 @@
 <h1>Online Course Platform</h1>
-<h3> Project Description</h2>
+<h3>Problem Statement</h3>
+The project is all about offering courses fro students as well as the working professionals to enhance their skills or learn new skills at the minimum affordable price.
+<h3> Project Description</h3>
 Because of covid, everyone in the world nowadays enjoys using devices. Education is transforming from offline to online. As a result, this software offers some of the most cutting-edge technologies at an affordable price. The application's payment method is straightforward, with several payment options available. Every technology course in this application will have a learning path.To learn everything in the course from beginner to advanced levels.
 <br>
 <h3>Objective</h3>
@@ -16,4 +18,5 @@ Frontend Technologies : HTML, CSS, JavaScript.<br>
 Backend Technologies  : Php.<br>
 Database              : MYSQL.<br>
 Tools                 : XAMPP.<br>
-
+<h3>References></h3>
+<ul>youtube</ul>
